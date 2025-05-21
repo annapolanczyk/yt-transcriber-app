@@ -1,8 +1,9 @@
 streamlit
-openai-whisper
+openai-whisper==20230314
 yt-dlp
 googletrans==4.0.0-rc1
 opencv-python-headless
-torch
+torch==2.0.1
+
 
 
